@@ -139,3 +139,4 @@ cloudinary.config(
   api_key = "422427191418687", 
   api_secret = "rkSPicohCYBaQLFp05ignlJITkQ" 
 )
+SESSION_COOKIE_SECURE = True
